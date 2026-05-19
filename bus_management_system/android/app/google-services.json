@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "378334067029",
+    "firebase_url": "https://bus-management-system-1a375-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bus-management-system-1a375",
+    "storage_bucket": "bus-management-system-1a375.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378334067029:android:8c9a8e1fcc320c57b657dc",
+        "android_client_info": {
+          "package_name": "com.example.bus_management_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378334067029-e6me0ckjl3s2u2os5bp4601ikn37p12b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bus_management_system",
+            "certificate_hash": "6105a24b20ab998424c4bc5571aba1cead65c1b0"
+          }
+        },
+        {
+          "client_id": "378334067029-896ot62oiq245h9obvph4d602kmul9im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeoWWdmVSzsqLTjOGIJadBaIskFOHd3Q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378334067029-896ot62oiq245h9obvph4d602kmul9im.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "378334067029-rgi4cd9tnimsstdutistrhfb4lf85d5b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.busManagementSystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
